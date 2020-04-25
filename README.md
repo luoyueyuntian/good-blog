@@ -111,6 +111,17 @@
 + [Element - 网站快速成型工具](http://element-cn.eleme.io/#/zh-CN)
 + [Vue2.0响应式原理以及重写数组方法 - SpongeBob~~ - 博客园](https://www.cnblogs.com/QQPrincekin/p/11970960.html)
 
+#### RxJS
++ [构建流式应用—RxJS详解 · Issue #11 · joeyguo/blog](https://github.com/joeyguo/blog/issues/11)
++ [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑 · Issue #38 · xufei/blog](https://github.com/xufei/blog/issues/38)
++ [Reactive-Extensions/RxJS: The Reactive Extensions for JavaScript](https://github.com/Reactive-Extensions/RxJS)
++ [ReactiveX/rxjs: A reactive programming library for JavaScript](https://github.com/ReactiveX/rxjs)
++ [rxjs简单入门 - CSDN博客](http://blog.csdn.net/jsjpanxiaoyu/article/details/76561224?locationNum=2&fps=1)
++ [rxjs简单入门 - CSDN博客](http://blog.csdn.net/m0_37529303/article/details/69220218?locationNum=1&fps=1)
++ [RxJS 中文文档](http://cn.rx.js.org/)
++ [RxJS入门（5）----编写并发程序 - CSDN博客](http://blog.csdn.net/tianjun2012/article/details/51276290)
++ [Subject · ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/Subject.html)
+
 ### 前端可视化
 + [理解SVG坐标系和变换：视窗,viewBox和preserveAspectRatio_SVG 教程_w3cplus](https://www.w3cplus.com/html5/svg-coordinate-systems.html)
 + [SVG.js | Elements](http://svgjs.com/elements/#svg-text)
