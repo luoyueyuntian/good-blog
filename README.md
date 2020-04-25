@@ -94,6 +94,23 @@
 + [Quick Start · React Redux](https://react-redux.js.org/introduction/quick-start)
 + [react-component](https://github.com/react-component)
 
+#### vue
++ [Vue生命周期 - 半亩花田 - 博客园](http://www.cnblogs.com/lily1010/p/5830946.html)
++ [Vue.js——vue-resource全攻略 - keepfool - 博客园](http://www.cnblogs.com/keepfool/p/5657065.html)
++ [vue路由的使用 - _Avon - 博客园](http://www.cnblogs.com/avon/p/5943008.html)
++ [Vue2.0 源码阅读：响应式原理 | zhouweicsu](http://zhouweicsu.github.io/blog/2017/03/07/vue-2-0-reactivity/)
++ [Vue2技术栈归纳与精粹 | Bit by bit](https://uinika.github.io/2017/12/03/web/vue/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
++ [安装 · vue-router](https://router.vuejs.org/zh-cn/installation.html)
++ [介绍 — Vue.js](https://cn.vuejs.org/v2/guide/)
++ [Introduction · GitBook](https://ssr.vuejs.org/zh/)
++ [Introduction · Vuex](https://vuex.vuejs.org/zh-cn/)
++ [Vue Vue-cli Eslint 在vscode里代码自动格式化 - 简书](https://www.jianshu.com/p/69bfcb95b8d7)
++ [Vue 升级小记](https://zhuanlan.zhihu.com/p/31436018)
++ [Vue.js 组件编码规范 - 我爱吃小丸子 - 博客园](http://www.cnblogs.com/wangking/p/6542352.html)
++ [图标 Icon - iView](https://www.iviewui.com/components/icon)
++ [Element - 网站快速成型工具](http://element-cn.eleme.io/#/zh-CN)
++ [Vue2.0响应式原理以及重写数组方法 - SpongeBob~~ - 博客园](https://www.cnblogs.com/QQPrincekin/p/11970960.html)
+
 ### 前端可视化
 + [理解SVG坐标系和变换：视窗,viewBox和preserveAspectRatio_SVG 教程_w3cplus](https://www.w3cplus.com/html5/svg-coordinate-systems.html)
 + [SVG.js | Elements](http://svgjs.com/elements/#svg-text)
