@@ -86,6 +86,13 @@
 + [React 中文导航](http://nav.react-china.org/)
 + [搭建开发环境 · React Native 中文网](https://reactnative.cn/docs/getting-started/)
 + [API 文档 | React Router 中文文档](http://react-guide.github.io/react-router-cn/docs/API.html)
++ [React Router: Declarative Routing for React.js](https://reacttraining.com/react-router/web/api/BrowserRouter)
++ [MobX 介绍 · MobX 中文文档](https://cn.mobx.js.org/)
++ [开始 – React](https://zh-hans.reactjs.org/docs/getting-started.html)
++ [以编程方式使用react-router进行导航 - IT屋-程序员软件开发技术分享社区](https://www.it1352.com/1002664.html)
++ [Getting Started with Redux | Redux](https://redux.js.org/introduction/getting-started)
++ [Quick Start · React Redux](https://react-redux.js.org/introduction/quick-start)
++ [react-component](https://github.com/react-component)
 
 ### 前端可视化
 + [理解SVG坐标系和变换：视窗,viewBox和preserveAspectRatio_SVG 教程_w3cplus](https://www.w3cplus.com/html5/svg-coordinate-systems.html)
