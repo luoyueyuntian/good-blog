@@ -122,6 +122,14 @@
 + [RxJS入门（5）----编写并发程序 - CSDN博客](http://blog.csdn.net/tianjun2012/article/details/51276290)
 + [Subject · ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/Subject.html)
 
+### WEB安全
++ [浅谈WEB安全性（前端向） - 网站安全 - 红黑联盟](https://www.2cto.com/article/201412/363743.html)
++ [xss攻击原理 - CSDN博客](http://blog.csdn.net/sesvox750/article/details/78226289?locationNum=2&fps=1)
++ [XSS常见攻击与防御](http://geek.csdn.net/news/detail/241672)
++ [IT牛人博客聚合 - 双因素认证（2FA）教程](http://www.udpwork.com/item/16487.html)
++ [把前端监控做到极致](https://zhuanlan.zhihu.com/p/32262716?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
++ [聊一聊WEB前端安全那些事儿 - CSDN博客](http://blog.csdn.net/fengyinchao/article/details/52303118)
+
 ### 前端可视化
 + [理解SVG坐标系和变换：视窗,viewBox和preserveAspectRatio_SVG 教程_w3cplus](https://www.w3cplus.com/html5/svg-coordinate-systems.html)
 + [SVG.js | Elements](http://svgjs.com/elements/#svg-text)
