@@ -306,6 +306,7 @@
 + [AES加密算法的详细介绍与实现 - qq_28205153的博客 - CSDN博客](https://blog.csdn.net/qq_28205153/article/details/55798628)
 + [理解AES加密解密的使用方法 - 技术改变生活 - CSDN博客](https://blog.csdn.net/vieri_32/article/details/48345023)
 + [题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode-cn.com/problemset/all/)
++ [Http请求时URL中的中文编码](https://www.cnblogs.com/northern-light/p/8012619.html)
 
 ### 架构
 + [JavaScript富应用MVC MVVM框架 - 【艾伦】 - 博客园](http://www.cnblogs.com/aaronjs/p/3149402.html)
