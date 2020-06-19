@@ -335,6 +335,7 @@
 + [V8 之旅： 垃圾回收器 – NewHTML](http://newhtml.net/v8-garbage-collection/)
 + [前端面试：谈谈 JS 垃圾回收机制 - 终身学习者 - SegmentFault 思否](https://segmentfault.com/a/1190000018605776)
 + [深入理解浏览器工作原理 - 小火柴的蓝色理想 - 博客园](https://www.cnblogs.com/xiaohuochai/p/9174471.html)
++ [百度前端代码规范](https://www.bookstack.cn/read/ecomfe-spec/directory.md)
 
 ### 好的总结
 + [前端开发 | DeveWork](https://devework.com/category/deve)
